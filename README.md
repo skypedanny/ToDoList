@@ -1,2 +1,2 @@
 # ToDoList
-KoaJS + MongoDB = Todo List
+ReactJS + KoaJS + MongoDB = Todo List
