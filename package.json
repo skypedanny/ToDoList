@@ -1,0 +1,29 @@
+{
+  "name": "todolist",
+  "version": "1.0.0",
+  "description": "KoaJS + MongoDB = Todo List",
+  "main": "index.js",
+  "scripts": {
+    "start": "nodemon src/index.js", 
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/skypedanny/ToDoList.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/skypedanny/ToDoList/issues"
+  },
+  "homepage": "https://github.com/skypedanny/ToDoList#readme",
+  "dependencies": {
+    "koa": "^2.8.1",
+    "koa-body": "^4.1.1",
+    "koa-bodyparser": "^4.2.1",
+    "koa-router": "^7.4.0",
+    "mongoose": "^5.6.12",
+    "nodemon": "^1.19.2",
+    "sequelize": "^5.18.1"
+  }
+}
